@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 20
+Files info:
+Site URL = http://supplementsvala.ml
+Data file = /home/vol10_1/unaux.com/unaux_24728937/htdocs/wp-content/themes/best-commerce/demo/content.xml
+Widget file = /home/vol10_1/unaux.com/unaux_24728937/htdocs/wp-content/themes/best-commerce/demo/widget.wie
+Customizer file = /home/vol10_1/unaux.com/unaux_24728937/htdocs/wp-content/themes/best-commerce/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Filter Products by Price - No Title - Imported
+Products - Featured Products - Imported
+Products - On-sale Products - Imported
+BC: Advanced Recent Posts - Latest Blog - Imported
+
+Featured Widget Area : 
+
+Image - No Title - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+Text - About Us - Imported
+BC: Social - No Title - Imported
+
+Footer 2 : 
+
+Products - Featured Products - Imported
+
+Footer 3 : 
+
+Products - On-sale products - Imported
+
+Footer 4 : 
+
+BC: Advanced Recent Posts - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
